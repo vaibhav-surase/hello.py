@@ -1,0 +1,3 @@
+[filesystem "Ubuntu|21.0.8|/dev/mapper/ubuntu--vg-ubuntu--lv"]
+	timestampResolution = 5181 nanoseconds
+	minRacyThreshold = 2090 microseconds
